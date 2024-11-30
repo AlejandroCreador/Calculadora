@@ -1,14 +1,6 @@
-# Calculadora Básica
+# Basic Calculator
 
-Una calculadora web sencilla que realiza operaciones aritméticas básicas.
+A simple web-based calculator that performs fundamental arithmetic operations:
 
-## Funcionalidades
-
-- Suma, resta, multiplicación y división.
-- Interfaz de usuario intuitiva.
-
-## Tecnologías Utilizadas
-
-- HTML
-- CSS
-- JavaScript
+- Addition, subtraction, multiplication, and division.
+- User-friendly interface. 
